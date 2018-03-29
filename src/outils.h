@@ -5,5 +5,5 @@
 	#include "math.h"
 	#include "stdarg.h"
 
-extern int mode_d_emploi(int n, ...);
+extern int mode_d_emploi(char *nom, int n, ...);
 #endif
